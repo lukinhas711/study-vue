@@ -1,6 +1,6 @@
 # Estudos com Vue(3)
 
-Esse repositorio contem todos os meus arquivos de estudo da ferramenta Vue(3) esses estudos são baseado no [roadmap](https://roadmap.sh/vue) do [The Roadmaps](https://roadmap.sh/)
+Esse repositorio contem todos os meus arquivos de estudo da ferramenta Vue(3) esses estudos são baseado no [roadmap](https://roadmap.sh/vue) do [The Roadmaps](https://roadmap.sh/) com objetivo de masterizar meus conhecimentos com essa ferramenta
 
 ## Se estiver curioso quanto ao roadmap entre no site => <https://roadmap.sh/vue>
 
