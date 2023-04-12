@@ -1,3 +1,6 @@
+
+# Single File Component (SFC)
+
 A estrutura dos arquivos vue tem uma arquitetura a ser seguida, esses `SFCs` são um arquivo na aplicação com a extensão `.vue`, onde na hora de fazer o build, esses arquivos serão convertidos em arquivos primários de `HTML`, `CSS` e `JS`
 
 ```vue
